@@ -5,7 +5,8 @@ Autor: Eulogio López Cayuela
 Versión 2.0    Fecha: 26/09/2017 
 
 
-  NOTAS DE LA VERSION:
+  NOTAS DE ESTA VERSION:
+  
     Control de centrifugadora de laboratorio casero mediante ARDUINO UNO
     para actuar sobre el sistema se dispone de un potenciometro y un pulsador
     El potenciometro permite introducir valores en los campos corespondientes
